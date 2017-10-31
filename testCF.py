@@ -307,7 +307,7 @@ cf_baseline()
 #do user-user filtering
 cf_userUser()
 
-do item-item filtering
+#do item-item filtering
 cf_itemItem()
 
 #model based CF
